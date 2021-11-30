@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.27.8
+
+### Patch Changes
+
+- @lion/form-core@0.15.5
+- @lion/listbox@0.10.8
+
 ## 0.27.7
 
 ### Patch Changes

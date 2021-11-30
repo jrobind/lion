@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.6.8
+
+### Patch Changes
+
+- @lion/form-core@0.15.5
+- @lion/input@0.15.8
+
 ## 0.6.7
 
 ### Patch Changes

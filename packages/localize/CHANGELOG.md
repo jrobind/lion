@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.22.0
+
+### Minor Changes
+
+- fad9d8e5: add option to show the key as a fallback when a locale is missing a translation
+
 ## 0.21.3
 
 ### Patch Changes

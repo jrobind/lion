@@ -1,5 +1,11 @@
 # @lion/listbox
 
+## 0.10.8
+
+### Patch Changes
+
+- @lion/form-core@0.15.5
+
 ## 0.10.7
 
 ### Patch Changes
